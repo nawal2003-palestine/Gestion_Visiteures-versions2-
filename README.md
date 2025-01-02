@@ -4,6 +4,7 @@ Situation 2 :
 
 Ajout d'une fonction Connect() dans un fichier Connexion.php pour une gestion centralisée des connexions.
 Fichier Visiteur.php contenant des fonctions CRUD :
+
 Ajouter($data)
 Modifier($data)
 Supprimer($id)
